@@ -1,0 +1,9 @@
+Non-functional requirements are requirements that specify how a system should perform, rather than what the system should do. They describe the system's overall behavior, as opposed to its specific functionality. Some examples of non-functional requirements include performance requirements (e.g. response time, throughput), reliability requirements (e.g. uptime, failure rate), and security requirements (e.g. authentication, access control). These requirements are often considered in the design and development of a system, and they can have a significant impact on the system's overall quality and usability.
+
+The core principles of non-functional requirements can be summarized as follows:
+* Non-functional requirements are about how a system should perform, rather than what it should do. They describe the overall behavior of the system, rather than its specific functionality.
+* Non-functional requirements are often intangible and difficult to measure, making it challenging to test and verify that they have been satisfied.
+* Non-functional requirements can have a significant impact on the quality and usability of a system, and should be carefully considered during the design and development process.
+* Non-functional requirements can be grouped into several broad categories, including performance, reliability, security, maintainability, and usability.
+* Non-functional requirements often have trade-offs, meaning that satisfying one requirement may come at the expense of another. For example, increasing performance may require sacrificing some level of reliability, or improving security may make the system more complex and difficult to use.
+* Non-functional requirements should be clearly defined and documented, so that they can be used as a basis for evaluating the system's overall quality and performance. This can help ensure that the system meets the needs and expectations of its users.

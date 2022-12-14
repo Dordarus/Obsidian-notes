@@ -1,0 +1,7 @@
+Concurrency and parallelism are related but distinct concepts in programming. Concurrency refers to the ability of a program to have multiple things happening at the same time, without necessarily executing them simultaneously. Parallelism, on the other hand, refers to the ability of a program to execute multiple things simultaneously, typically by using multiple CPU cores or processors.
+
+In the Ruby programming language, concurrency is typically achieved using fibers, which are light-weight threads of execution that can be paused and resumed. This allows a program to appear to be doing multiple things at the same time, even if it is only executing one thing at a time.
+
+Parallelism, on the other hand, can be achieved using the Ruby standard library's ["parallel" gem](https://github.com/grosser/parallel), which provides tools for running tasks in parallel. This allows a Ruby program to take advantage of multiple CPU cores or processors to execute multiple things simultaneously, potentially improving performance. [[Could we achieve parallelism in ruby, without using additional gems]]?
+
+Overall, both concurrency and parallelism can be useful techniques for improving the performance and scalability of Ruby programs, depending on the specific needs and requirements of the project.

@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "a67bf1b20f8c2f81",
+    "type": "split",
+    "children": [
+      {
+        "id": "217b2bc9ac29fc7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98460478ac9a3fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work notes/Cirro Ruby client improvements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "113a2d75f0caf24c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef52ca25c89b02e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe84b88794d4b140",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9eeb0bea01886642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f2cf9b2c65963a2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "209202dddf82a9b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "26145ce78675324c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db0f4f0082919c31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Work notes/Cirro Ruby client improvements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c05c39d4d8cc0060",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work notes/Cirro Ruby client improvements.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f74fd2d7056d540",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52cf5f3757bb9776",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work notes/Cirro Ruby client improvements.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "98460478ac9a3fc9",
+  "lastOpenFiles": []
+}
