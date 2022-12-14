@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "eaee02715770ddad",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38b487e0aca0945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d3d49ffaca4630",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3342cc2c39158325",
+    "type": "split",
+    "children": [
+      {
+        "id": "4afc6a2a341e6c6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85582647566d0889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abdbea20110c14bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56bd67d82b0f979e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3aa08d6a27b74bd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b0527621a5e8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac8cafd928a17193",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69075f4456304651",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "937eafe78b243671",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "227051bf1071e8bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66d3d49ffaca4630",
+  "lastOpenFiles": [
+    "Work/Assessment/Assesment notes.md",
+    "Work/Assessment/DoD vs DoR.md",
+    "Work/Assessment/Optimistic and pessimistic locks.md"
+  ]
+}
