@@ -29,7 +29,7 @@
 
 ### Concurrency vs Parallelism in ruby
 1. [[Concurrency and parallelism]]
-2. Sidekiq can process some tasks in parallel, How it's able to process the jobs in parallel?
+2. Sidekiq can process some tasks in parallel, How it's able to process the jobs in parallel? ([[Sidekiq and multithreads]])
 
 ## Database Architecture
 
