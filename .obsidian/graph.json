@@ -8,14 +8,14 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Work/Assessment/Concurrency and parallelism\"",
+      "query": "path:\"Assessment/Concurrency and parallelism\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Work/Assessment/Software development methodologies\"",
+      "query": "path:\"Assessment/Software development methodologies\"",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224423,
+  "scale": 1.1888927824434017,
   "close": false
 }
