@@ -1,3 +1,5 @@
+![](https://www.onpathtesting.com/hs-fs/hubfs/agile%20testing%20pyramid%20onpath%20testing%20QA.png?width=3891&name=agile%20testing%20pyramid%20onpath%20testing%20QA.png)
+
 The testing pyramid is a concept that describes the relationship between different types of software tests. It suggests that, in order to have a well-rounded and effective testing strategy, you should have a balance of high-level and low-level tests, with a larger number of low-level tests and a smaller number of high-level tests.
 
 At the base of the pyramid are unit tests, which test individual components or units of code in isolation. These tests are typically the most numerous, and they are used to ensure that each unit of the code is working correctly.
