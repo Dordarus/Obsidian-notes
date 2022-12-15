@@ -128,10 +128,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66d3d49ffaca4630",
+  "active": "85582647566d0889",
   "lastOpenFiles": [
-    "Work/Assessment/Assesment notes.md",
-    "Work/Assessment/DoD vs DoR.md",
-    "Work/Assessment/Optimistic and pessimistic locks.md"
+    "Assessment/Software development methodologies/Software development methodologies.md",
+    "Assessment/Software development methodologies/Waterfall. Pros and Cons.md",
+    "Assessment/Blue-Green Deployment.md",
+    "Assessment/Two-phase commit.md",
+    "Assessment/The testing pyramid.md",
+    "Assessment/DoD vs DoR.md",
+    "Assessment/Concurrency and parallelism/Concurrency and parallelism.md",
+    "Assessment/Assesment notes.md",
+    "Assessment/Optimistic and pessimistic locks.md"
   ]
 }
