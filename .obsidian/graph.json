@@ -8,30 +8,51 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Assessment/Concurrency and parallelism\"",
+      "query": "path:\"Knowledge base/Concurrency and parallelism\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Assessment/Software development methodologies\"",
+      "query": "path:\"Knowledge base/Testing\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Knowledge base/Software development methodologies\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#need_info",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Knowledge base/Database\"",
+      "color": {
+        "a": 1,
+        "rgb": 255
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.15951334635417,
+  "lineSizeMultiplier": 1.07158610026042,
   "collapse-forces": false,
   "centerStrength": 0.411458333333333,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1888927824434017,
+  "scale": 1.3318023126020269,
   "close": false
 }

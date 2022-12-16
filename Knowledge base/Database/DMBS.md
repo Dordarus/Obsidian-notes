@@ -22,4 +22,4 @@ Here are a few examples of DBMS:
 
 >[!INFO]
 >Also read:
->[[NoSQL and SQL]]
+>[[NoSQL vs SQL]]

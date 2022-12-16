@@ -41,4 +41,6 @@
 	5. [[Two-phase commit]] (nice to have)
 2. Normal Forms (nice to have)
 4. [[Optimistic and pessimistic locks]]
+5. [[DMBS]]
+6. [[NoSQL vs SQL]]
 

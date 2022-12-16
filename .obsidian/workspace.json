@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc6fd213712182aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge base/Database/DMBS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7101710ba5a04db3",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,12 +138,12 @@
   },
   "active": "7101710ba5a04db3",
   "lastOpenFiles": [
-    "Knowledge base/Database/DMBS.md",
-    "Knowledge base/Database/NoSQL and SQL.md",
-    "Knowledge base/Database/Database Locks.md",
-    "Level 3 Questions.md",
-    "Knowledge base/Database/Database Isolation and read phenomenas.md",
     "Knowledge base/Database/Optimistic and pessimistic locks.md",
+    "Knowledge base/Database/Database Locks.md",
+    "Knowledge base/Database/DMBS.md",
+    "Level 3 Questions.md",
+    "Knowledge base/Database/NoSQL vs SQL.md",
+    "Knowledge base/Database/Database Isolation and read phenomenas.md",
     "Knowledge base/Database/Transactions.md",
     "Knowledge base/Database/Isolation levels/READ_COMMITTED.md",
     "Knowledge base/Database/ACID.md",
