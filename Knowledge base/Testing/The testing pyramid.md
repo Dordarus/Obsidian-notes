@@ -9,3 +9,6 @@ Above the unit tests are integration tests, which test how different units of co
 At the top of the pyramid are end-to-end tests, which test the entire system from start to finish. These tests are used to ensure that the system is working as expected from the user's perspective, and that all of the different components are working together correctly.
 
 The testing pyramid is a useful way to think about the different types of tests that should be included in a testing strategy, and it helps to ensure that the right balance of tests is used to thoroughly test a system. However, the exact shape of the pyramid will vary depending on the specific needs and requirements of the system being tested.
+
+Also read
+[[Types of software tests]]

@@ -1,0 +1,5 @@
+This is the highest possible level of isolation, and is a bit difficult to define: in ___practice___, ___SERIALIZABLE___ means that from the user’s perspective, transactions ___appear___ as if they’re executing sequentially, not concurrently. In other words, isolation is _so __intense___ that transactions will only execute concurrently if the end result is the same as them executing sequentially.
+
+___SERIALIZABLE___ also uses range locks to avoid phantom reads. Range locks are a mechanism that’s in between locking a row and locking a table: if you’re running a `SELECT` query with a `WHERE` clause, range locks will lock some of the rows that exist ___close___ to your selected rows (before and after).
+
+So when you use ___SERIALIZABLE___ isolation level in your application, make sure that you have implemented a transaction ___retry strategy___ in case timeout occurs.

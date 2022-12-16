@@ -34,9 +34,11 @@
 ## Database Architecture
 
 1. DB transactions 
-	1. ACID
-	2. Isoloation levels
-	3. [[Two-phase commit]] (nice to have)
+	1. [[ACID]]
+	2. [[Transactions]]
+	3. [[Database Isolation and read phenomenas]]
+	4. [[Database Locks]]
+	5. [[Two-phase commit]] (nice to have)
 2. Normal Forms (nice to have)
 4. [[Optimistic and pessimistic locks]]
 
