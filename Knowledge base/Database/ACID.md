@@ -1,4 +1,4 @@
-In **relational databases**([[DMBS]]), [[Transactions|transactions]] must be:
+In **relational databases**([[DMBS]]), [[Transaction|transactions]] must be:
 1. [[#Atomicity|Atomic]]
 2. [[#Consistency|Consistent]]
 3. [[#Isolation|Isolated]]
@@ -24,5 +24,5 @@ With multiple concurrent transactions running at the same time, each transaction
 
 Durability means that a successful transaction commit will survive permanently. To accomplish this, an entry is added to the database transaction log for each successful transaction.
 
->[!INFO] Also Check
->[[Reliability and consistency of data in NoSQL]]
+>[!INFO] Also read
+> - [[Reliability and consistency of data in NoSQL]]

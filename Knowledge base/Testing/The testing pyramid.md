@@ -10,5 +10,5 @@ At the top of the pyramid are end-to-end tests, which test the entire system fro
 
 The testing pyramid is a useful way to think about the different types of tests that should be included in a testing strategy, and it helps to ensure that the right balance of tests is used to thoroughly test a system. However, the exact shape of the pyramid will vary depending on the specific needs and requirements of the system being tested.
 
-Also read
-[[Types of software tests]]
+>[!INFO] Also read
+> - [[Types of software tests]]

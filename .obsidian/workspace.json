@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e1870e55d3ef1ce",
+            "id": "0ce333e20e76e1bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge base/Microservices/Migrating to microservice architecture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge base/Microservices/Migrating to microservice architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge base/Microservices/Migrating to microservice architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge base/Microservices/Migrating to microservice architecture.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e1870e55d3ef1ce",
+  "active": "0ce333e20e76e1bc",
   "lastOpenFiles": [
-    "Knowledge base/Database/NoSQL/Reliability and consistency of data in NoSQL.md",
-    "Knowledge base/Database/NoSQL/NoSQL Data Models.md",
-    "Knowledge base/Database/ACID.md",
-    "Knowledge base/Database/Reading phenomenas/Dirty Reads.md",
-    "Knowledge base/Database/Reading phenomenas/Non-Repeatable Reads.md",
-    "Knowledge base/Database/Reading phenomenas/Phantom Reads.md",
-    "Knowledge base/Database/Reading phenomenas/Serialization anomaly.md",
-    "Knowledge base/Database/Isolation levels/READ_COMMITTED.md",
-    "Knowledge base/Database/Isolation levels/READ_UNCOMMITTED.md",
-    "Knowledge base/Database/Isolation levels/REPEATABLE_READ.md"
+    "Knowledge base/Database/Database lock types.md",
+    "Knowledge base/Microservices/Migrating to microservice architecture.md",
+    "Knowledge base/Testing/Types of software tests.md",
+    "Knowledge base/Testing/The testing pyramid.md",
+    "Level 3 Questions.md",
+    "Knowledge base/Deployment/Blue-Green Deployment.md",
+    "Knowledge base/Deployment/How to deploy dependent microservices.md",
+    "Knowledge base/Database/DMBS.md",
+    "Knowledge base/Database/Distributed transaction.md",
+    "Knowledge base/Database/Two-phase commit.md"
   ]
 }

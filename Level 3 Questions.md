@@ -25,7 +25,7 @@
 1. [[Microservices principles]]
 2. [[How to deploy dependent microservices]] (Principles)
 3. [[Blue-Green Deployment]] (Principles)
-5. Why I would migrate to microservice from huge monolith application?
+5. Why would I migrate to microservice from huge monolith application? ([[Migrating to microservice architecture]])
 
 ### Concurrency vs Parallelism in ruby
 1. [[Concurrency and parallelism]]
@@ -35,9 +35,9 @@
 
 1. DB transactions 
 	1. [[ACID]]
-	2. [[Transactions]]
+	2. [[Transaction]]
 	3. [[Two-phase commit]] (nice to have)
-2. Normal Forms (nice to have)
+2. Normal Forms (nice to have) #need_info 
 4. [[Optimistic and pessimistic locks]]
 5. [[NoSQL vs SQL]]
 

@@ -9,6 +9,6 @@ NoSQL and SQL are two different types of database management systems ([[DMBS]]).
 >[!NOTE]
 >In summary, NoSQL and SQL databases are designed for different use cases and have different strengths and weaknesses. The right choice depends on the specific needs of a project.
 
->[!INFO] Also Check
+>[!INFO] Also read
 > - [[Reliability and consistency of data in NoSQL]]
 > - [[ACID]]

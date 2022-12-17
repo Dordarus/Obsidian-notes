@@ -60,4 +60,4 @@ In this example, the two transactions are executed concurrently, and their inter
 >To prevent serialization anomalies, database systems use isolation levels to control the concurrency of transactions. The highest isolation level, [[SERIALIZABLE]] ensures that transactions are executed one at a time, in the order in which they were initiated. This eliminates the possibility of serialization anomalies, but can also reduce concurrency and performance. Lower isolation levels, such as [[REPEATABLE_READ]] and [[READ_COMMITTED]], allow transactions to be executed concurrently, but can still result in serialization anomalies if they are not carefully designed.
 
 >[!WARNING]
-> [[Database Locks#^26fc88|Deadlock]] is possible in serializable level of isolation.
+> [[Database lock types#^26fc88|Deadlock]] is possible in serializable level of isolation for this example. Without properly configured retry strategy that could lead to issues.

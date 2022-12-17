@@ -8,4 +8,8 @@ If any node responds with a "no" message during the prepare phase, the transacti
 
 An example of a two-phase commit might be a distributed database system, where multiple nodes are responsible for storing and updating data. In this case, the transaction manager would be responsible for coordinating the commit process across the nodes, to ensure that the data is updated consistently and atomically.
 
-Overall, the two-phase commit protocol is a useful tool for ensuring the consistency and reliability of distributed transactions, but it can be complex and time-consuming to implement, particularly in large-scale systems.
+>[!INFO]
+>Overall, the two-phase commit protocol is a useful tool for ensuring the consistency and reliability of distributed transactions, but it can be complex and time-consuming to implement, particularly in large-scale systems.
+
+>[!INFO] Also read
+>  - [[Distributed transaction]]

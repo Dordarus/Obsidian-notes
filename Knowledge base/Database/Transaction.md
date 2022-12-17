@@ -19,5 +19,5 @@ During its lifecycle, a database transaction goes through multiple states. These
 
 ![](https://images.contentful.com/po4qc9xpmpuh/3CQA2Vahq9s71Iifwz8SHG/15acd162da3b04a09d5c048aa121ce8d/database-transaction-2.png)
 
->[!Note] Also read
->[[Database Isolation and read phenomenas]]
+>[!INFO] Also read
+> - [[Database Isolation and read phenomenas]]

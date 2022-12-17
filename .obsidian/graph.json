@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -7,6 +7,34 @@
   "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "tag:#need_info",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Knowledge base/Database/Isolation levels\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Knowledge base/Database/Reading phenomenas\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Knowledge base/Database/NoSQL\"",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
     {
       "query": "path:\"Knowledge base/Concurrency and parallelism\"",
       "color": {
@@ -29,17 +57,24 @@
       }
     },
     {
-      "query": "tag:#need_info",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
       "query": "path:\"Knowledge base/Database\"",
       "color": {
         "a": 1,
         "rgb": 255
+      }
+    },
+    {
+      "query": "path:\"Knowledge base/Deployment\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Knowledge base\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
@@ -48,11 +83,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.15951334635417,
   "lineSizeMultiplier": 1.07158610026042,
-  "collapse-forces": false,
-  "centerStrength": 0,
+  "collapse-forces": true,
+  "centerStrength": 0.479654947916667,
   "repelStrength": 12.6521809895833,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.9689518478563836,
+  "scale": 1.14333795990451,
   "close": false
 }

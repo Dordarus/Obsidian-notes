@@ -8,16 +8,16 @@ When deciding which type of lock to use, it is important to consider the specifi
 
 ## In Database Systems
 
-In database systems, locks are used to prevent multiple [[Transactions|transactions]] from accessing and modifying the same data simultaneously, which can lead to data inconsistencies. There are two main types of locks: optimistic locks and pessimistic locks.
+In database systems, locks are used to prevent multiple [[Transaction|transactions]] from accessing and modifying the same data simultaneously, which can lead to data inconsistencies. There are two main types of locks: optimistic locks and pessimistic locks.
 
 Optimistic locks are a type of lock that allows multiple transactions to access the same data simultaneously, with the assumption that conflicts will be rare. When a transaction wants to update the data, it first checks to see if the data has been modified by another transaction since it was last accessed. If the data has not been modified, the transaction can proceed with the update. If the data has been modified, the transaction will fail and the user will need to resolve the conflict and retry the update. Optimistic locks are generally used in systems where conflicts are expected to be rare and can be resolved easily.
 
 Pessimistic locks, on the other hand, prevent other transactions from accessing the data while a transaction is accessing it. This ensures that conflicts do not occur, but it can also lead to slower performance because other transactions have to wait for the lock to be released before they can access the data. Pessimistic locks are generally used in systems where conflicts are expected to be more common or where it is not practical to resolve conflicts.
 
-Shared locks, exclusive locks, and intent locks are [[Database Locks|type of locks]] that can be used in conjunction with either pessimistic or optimistic concurrency control. Shared locks allow multiple transactions to read data simultaneously, but prevent any of them from updating the data until the lock is released. Exclusive locks prevent all other transactions from accessing the data until the lock is released. Intent locks are used to protect the resources that a transaction intends to access, rather than the data itself.
+Shared locks, exclusive locks, and intent locks are [[Database lock types|type of locks]] that can be used in conjunction with either pessimistic or optimistic concurrency control. Shared locks allow multiple transactions to read data simultaneously, but prevent any of them from updating the data until the lock is released. Exclusive locks prevent all other transactions from accessing the data until the lock is released. Intent locks are used to protect the resources that a transaction intends to access, rather than the data itself.
 
 >[!NOTE]
->Both optimistic and pessimistic locks have their own trade-offs and are suitable for different situations. It is important to carefully consider which [[Database Locks|type of lock]] is best for a given situation in order to ensure the system performs optimally and maintains data integrity.
+>Both optimistic and pessimistic locks have their own trade-offs and are suitable for different situations. It is important to carefully consider which [[Database lock types|type of lock]] is best for a given situation in order to ensure the system performs optimally and maintains data integrity.
 
 ## Examples
 
