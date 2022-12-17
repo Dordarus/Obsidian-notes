@@ -8,7 +8,7 @@ When deciding which type of lock to use, it is important to consider the specifi
 
 ## In Database Systems
 
-In database systems, locks are used to prevent multiple transactions from accessing and modifying the same data simultaneously, which can lead to data inconsistencies. There are two main types of locks: optimistic locks and pessimistic locks.
+In database systems, locks are used to prevent multiple [[Transactions|transactions]] from accessing and modifying the same data simultaneously, which can lead to data inconsistencies. There are two main types of locks: optimistic locks and pessimistic locks.
 
 Optimistic locks are a type of lock that allows multiple transactions to access the same data simultaneously, with the assumption that conflicts will be rare. When a transaction wants to update the data, it first checks to see if the data has been modified by another transaction since it was last accessed. If the data has not been modified, the transaction can proceed with the update. If the data has been modified, the transaction will fail and the user will need to resolve the conflict and retry the update. Optimistic locks are generally used in systems where conflicts are expected to be rare and can be resolved easily.
 

@@ -19,25 +19,5 @@ During its lifecycle, a database transaction goes through multiple states. These
 
 ![](https://images.contentful.com/po4qc9xpmpuh/3CQA2Vahq9s71Iifwz8SHG/15acd162da3b04a09d5c048aa121ce8d/database-transaction-2.png)
 
-## Database locking and isolation
-
-A modern web application might need to handle hundreds of thousands of transactions daily, and the biggest ones deal with orders of magnitude more than that. That kind of scale can create a bunch of problems with data integrity, starting with the big 3 as defined by the SQL standard.
-
-[[Database Isolation and read phenomenas#Isolation levels, read phenomena|Isolation levels, read phenomena]]
-
-### Reading phenomenas
-
--  [[Dirty Reads]]
--  [[Non-Repeatable Reads]]
--  [[Phantom Reads]]
--  [[Serialization anomaly]]
-
-### Database isolation levels
-
--   [[READ_UNCOMMITTED]]
--   [[READ_COMMITTED]] (**PostgreSQL**, **Oracle, MSSQL** default)
--   [[REPEATABLE_READ]] (**MySQL** default)
--   [[SERIALIZABLE]] (**SQLite** default)
-
-
-
+>[!Note] Also read
+>[[Database Isolation and read phenomenas]]

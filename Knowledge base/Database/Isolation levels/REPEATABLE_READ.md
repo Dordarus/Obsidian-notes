@@ -1,4 +1,4 @@
-The most popular isolation level is _REPEATABLE_READ_, which (surprise!) helps avoid [[Non-Repeatable Reads|non-repeatable reads]]. This iso level locks data from the start of the entire [[Transactions|transaction]] – including on `SELECT` queries – as opposed to the start of the ___query___, which adds an additional layer of isolation.
+The most popular isolation level is _REPEATABLE_READ_, which (surprise!) helps avoid [[Non-Repeatable Reads|non-repeatable reads]]. This iso level locks data from the start of the entire transaction – including on `SELECT` queries – as opposed to the start of the ___query___, which adds an additional layer of isolation.
 
 If you recall from above, a non-repeatable read happens when one transaction has two `SELECT` queries, and another transaction is able to insert or update a row that makes those two `SELECT` queries show different results. _REPEATABLE_READ_ isolation avoids that by letting the first transaction acquire a lock when it starts the first `SELECT` query.
 
