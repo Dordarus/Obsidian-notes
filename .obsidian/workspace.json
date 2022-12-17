@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2c417ec28760d861",
+        "id": "4ca8e7fa153e8a74",
         "type": "tabs",
         "children": [
           {
-            "id": "0ce333e20e76e1bc",
+            "id": "844dd7e8cc3197c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge base/Microservices/Migrating to microservice architecture.md",
+                "file": "Knowledge base/Software development methodologies/Software development methodologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a125beca372aef55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge base/Database/Normal Forms/Functional dependencies/Functional dependency.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge base/Microservices/Migrating to microservice architecture.md",
+                "file": "Knowledge base/Database/Normal Forms/Functional dependencies/Functional dependency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge base/Microservices/Migrating to microservice architecture.md",
+                "file": "Knowledge base/Database/Normal Forms/Functional dependencies/Functional dependency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge base/Microservices/Migrating to microservice architecture.md"
+                "file": "Knowledge base/Database/Normal Forms/Functional dependencies/Functional dependency.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ce333e20e76e1bc",
+  "active": "a125beca372aef55",
   "lastOpenFiles": [
-    "Knowledge base/Database/Database lock types.md",
-    "Knowledge base/Microservices/Migrating to microservice architecture.md",
-    "Knowledge base/Testing/Types of software tests.md",
-    "Knowledge base/Testing/The testing pyramid.md",
     "Level 3 Questions.md",
-    "Knowledge base/Deployment/Blue-Green Deployment.md",
-    "Knowledge base/Deployment/How to deploy dependent microservices.md",
-    "Knowledge base/Database/DMBS.md",
-    "Knowledge base/Database/Distributed transaction.md",
-    "Knowledge base/Database/Two-phase commit.md"
+    "Knowledge base/Database/Database normal forms.md",
+    "Knowledge base/Database/Normal Forms/Fifth Normal Form.md",
+    "Knowledge base/Database/Normal Forms/Functional dependencies/Join Dependency.md",
+    "Knowledge base/Software development methodologies/Software development methodologies.md",
+    "Knowledge base/Database/Normal Forms/Functional dependencies/Non-trivial functional dependency.md",
+    "Knowledge base/Database/Normal Forms/First Normal Form.md",
+    "Knowledge base/Database/Normal Forms/Fourth Normal Form.md",
+    "Knowledge base/Database/Normal Forms/Boyce-Codd Normal Form.md",
+    "Knowledge base/Database/Normal Forms/Third Normal Form.md"
   ]
 }
