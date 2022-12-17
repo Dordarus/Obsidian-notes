@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "882db2c42eb0bae9",
+        "id": "2c417ec28760d861",
         "type": "tabs",
         "children": [
           {
-            "id": "87774b4b972ae300",
+            "id": "2e1870e55d3ef1ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge base/Database/NoSQL/NoSQL Data Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0077aec482ccb55",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "37a8311df4e54933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge base/Database/NoSQL/NoSQL Data Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0077aec482ccb55",
+  "active": "2e1870e55d3ef1ce",
   "lastOpenFiles": [
-    "Knowledge base/Database/Reading phenomenas/Serialization anomaly.md",
-    "Knowledge base/Database/Database Locks.md",
+    "Knowledge base/Database/NoSQL/Reliability and consistency of data in NoSQL.md",
     "Knowledge base/Database/NoSQL/NoSQL Data Models.md",
-    "Knowledge base/Database/Database Isolation and read phenomenas.md",
+    "Knowledge base/Database/ACID.md",
+    "Knowledge base/Database/Reading phenomenas/Dirty Reads.md",
     "Knowledge base/Database/Reading phenomenas/Non-Repeatable Reads.md",
     "Knowledge base/Database/Reading phenomenas/Phantom Reads.md",
-    "Knowledge base/Database/Reading phenomenas/Dirty Reads.md",
-    "Knowledge base/Database/ACID.md",
-    "Knowledge base/Database/NoSQL vs SQL.md",
-    "Knowledge base/Database/NoSQL/Reliability and consistency of data in NoSQL.md"
+    "Knowledge base/Database/Reading phenomenas/Serialization anomaly.md",
+    "Knowledge base/Database/Isolation levels/READ_COMMITTED.md",
+    "Knowledge base/Database/Isolation levels/READ_UNCOMMITTED.md",
+    "Knowledge base/Database/Isolation levels/REPEATABLE_READ.md"
   ]
 }

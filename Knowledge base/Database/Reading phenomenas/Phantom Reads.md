@@ -30,7 +30,7 @@ In this example, the first transaction reads the number of records in the "users
 ```ruby
 # In the User model
 class User < ApplicationRecord
-  # Start a transaction with the isolation level set to "repeatable read"
+  # Start a transaction with the isolation level set to "serializable"
   User.transaction(isolation: :serializable) do
     # Read the number of records in the "users" table
     puts User.where("name like 'A%'").count  # Outputs: 1

@@ -8,12 +8,12 @@ An example might be two writers working on a blog. Our first user starts a trans
 # In the User model
 class User < ApplicationRecord
   # Start a transaction
-  User.transaction do
+  User.transaction(isolation: :read_uncommitted) do
     # Read the value of the field "name" in the "users" table
     puts User.first.name  # Outputs: "Alice"
 
     # Start a new transaction
-    User.transaction(isolation: :read_uncommitted) do
+    User.transaction do
       # Update the value of the field "name" in the "users" table
       User.first.update(name: 'Bob')
     end
@@ -32,7 +32,7 @@ In this example, the first transaction reads the value of the "name" field in th
 ```ruby
 # In the User model
 class User < ApplicationRecord
-  # Start a transaction with the isolation level set to "read committed"
+  # Start a transaction with the isolation level set to "repeatable_read"
   User.transaction(isolation: :repeatable_read) do
     # Read the value of the field "name" in the "users" table
     puts User.first.name  # Outputs: "Alice"
