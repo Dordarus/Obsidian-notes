@@ -32,3 +32,6 @@ To eliminate the partial dependency, we can create a separate table for the `Las
 | 1          | Smith    |
 | 2          | Johnson  |
 | 3          | Williams |
+
+>[!INFO] Also read
+> - [[Third Normal Form]]

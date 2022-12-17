@@ -29,3 +29,6 @@ Break the values into atomic values
 | 103     | Ckon | Ruby    |
 | 102     | Bkon | C       |
 | 102     | Bkon | C++     |
+
+>[!INFO] Also read
+> - [[Second Normal Form]]

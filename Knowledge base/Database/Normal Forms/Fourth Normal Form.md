@@ -35,3 +35,6 @@ In order to represent the multivalued dependency "Course ID, Student ID -> Grade
 | 3          | Bob Johnson  | CSC202    | C     |
 
 In this design, the multivalued dependency "Course ID, Student ID -> Grade" is represented by the foreign key "Course ID" in the "Students" table, which refers to the "Course ID" in the "Courses" table. This design satisfies the requirements of 4NF because there are no non-trivial multivalued dependencies in either table.
+
+>[!INFO] Also read
+> - [[Fifth Normal Form]]

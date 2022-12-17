@@ -35,3 +35,5 @@ To eliminate the transitive dependency, we can create a separate table for the `
 | 2          | 1002    | 2021-01-02 |
 | 3          | 1003    | 2021-01-03 |
 
+>[!INFO] Also read
+> - [[Fourth Normal Form]]

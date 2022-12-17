@@ -30,5 +30,6 @@ To eliminate the transitive dependency, we can create a separate table for the `
 | 1          | 2       |
 | 2          | 3       |
 
-
-
+>[!INFO] Also read
+> - [[Boyce-Codd Normal Form]]
+> - [[Fourth Normal Form]]
