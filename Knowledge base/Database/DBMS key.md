@@ -9,11 +9,14 @@ In a database management system (DBMS), a key is a field or set of fields in a t
 
 ``SId`` column has unique value for all the rows of data and the `SEmail` column also has unique email addresses and these two columns can be used to identify the course in the above table so we can say that `SId` and `SEmail` are keys for this relation.
 
-DBMS keys serve several important functions in a database management system. Some of the main reasons why keys are used in a DBMS include:
+DBMS keys serve several important functions in a database management system. Some of the main reasons why keys are used in a DBMS include: ^4287a3
 
 1. **To uniquely identify each row in a table**: A primary key is used to uniquely identify each row in a table. This is important because it allows the DBMS to easily locate and manipulate specific rows in the table.
+
 2. **To establish relationships between tables**: Foreign keys are used to establish relationships between tables. For example, a foreign key in one table may refer to the primary key of another table, indicating that the two tables are related in some way.
+
 3. **To enforce data integrity**: Keys can be used to enforce data integrity by preventing the insertion of duplicate values or null values into the key field.
+
 4. **To improve database performance**: Using keys to uniquely identify rows in a table can improve the performance of database queries, since the DBMS can use the keys to quickly locate the relevant rows.
 
 Overall, keys play a crucial role in ensuring the accuracy, integrity, and performance of a database management system.
@@ -140,15 +143,7 @@ Candidate Keys:
 
 ###### Table can exist without a primary key
 
-Technically, a table can exist without a primary key, but this is generally not recommended. A primary key is a field or set of fields in a table that uniquely identifies each row in the table. It is an important aspect of database design and serves several important functions, including:
-
-1. **Ensuring the uniqueness of each row**: A primary key is used to ensure that each row in a table is unique. This is important because it allows the database management system (DBMS) to easily locate and manipulate specific rows in the table.
-
-3. **Establishing relationships between tables**: A foreign key is a field that refers to the primary key of another table. It is used to establish relationships between tables and to enforce referential integrity.
-
-3. **Enforcing data integrity**: Keys can be used to enforce data integrity by preventing the insertion of duplicate values or null values into the key field.
-
-4. **Improving database performance**: Using keys to uniquely identify rows in a table can improve the performance of database queries, since the DBMS can use the keys to quickly locate the relevant rows.
+Technically, a table can exist without a primary key, but this is generally not recommended. A primary key is a field or set of fields in a table that uniquely identifies each row in the table. It is an important aspect of database design and serves several important [[#^4287a3|functions]].
 
 >[!NOTE]
 >Overall, a primary key is an essential element of a well-designed database. While it is technically possible to create a table without a primary key, doing so is generally not recommended and can lead to problems with data integrity and database performance

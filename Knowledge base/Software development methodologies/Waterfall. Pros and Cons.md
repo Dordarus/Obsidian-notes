@@ -1,12 +1,12 @@
 The waterfall methodology is a sequential, linear approach to software development, in which each phase of the development process is completed before moving on to the next phase. Some pros and cons of using the waterfall methodology include:
 
-## Pros:
+## Pros
 
 - The waterfall methodology is simple and easy to understand, making it a good choice for projects with clear, well-defined requirements.
 - It is a predictable and repeatable process, which can help ensure that the project stays on track and is delivered on time.
 - It allows for detailed planning and documentation, which can be useful for large, complex projects.
 
-## Cons:
+## Cons
 
 * The waterfall methodology is not well-suited to projects with rapidly changing requirements or uncertain scope, because it is difficult to make changes once a phase has been completed.
 * It can be inflexible and rigid, making it difficult to adapt to changing circumstances or to incorporate new ideas.

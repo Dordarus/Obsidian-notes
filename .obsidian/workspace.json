@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "677c4b270222d3e1",
+        "id": "fc04c2a61246b01d",
         "type": "tabs",
         "children": [
           {
-            "id": "174a4e506c2b8b56",
+            "id": "ae6f2c4e9a8203b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge base/Database/Normal Forms/Functional dependencies/Functional dependency.md",
+                "file": "Knowledge base/Software development methodologies/Lean.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aef8affc175e5f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge base/Software development methodologies/Software development methodologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d8fe3aa7aef1762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge base/Software development methodologies/DevOps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge base/Database/Normal Forms/Functional dependencies/Functional dependency.md",
+                "file": "Knowledge base/Software development methodologies/Software development methodologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge base/Database/Normal Forms/Functional dependencies/Functional dependency.md",
+                "file": "Knowledge base/Software development methodologies/Software development methodologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge base/Database/Normal Forms/Functional dependencies/Functional dependency.md"
+                "file": "Knowledge base/Software development methodologies/Software development methodologies.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "174a4e506c2b8b56",
+  "active": "aef8affc175e5f62",
   "lastOpenFiles": [
-    "Knowledge base/Database/DBMS key.md",
-    "Knowledge base/Database/Normal Forms/Functional dependencies/Functional dependency.md",
-    "Level 3 Questions.md",
-    "Knowledge base/Database/Database normal forms.md",
-    "Knowledge base/Database/Normal Forms/Fifth Normal Form.md",
-    "Knowledge base/Database/Normal Forms/Functional dependencies/Join Dependency.md",
+    "Knowledge base/Software development methodologies/Lean.md",
+    "Knowledge base/Concurrency and parallelism/Concurrency and parallelism.md",
+    "Knowledge base/Software development methodologies/DevOps. Pros and Cons.md",
+    "Knowledge base/Software development methodologies/Agile. Pros and Cons.md",
+    "Knowledge base/Software development methodologies/Waterfall. Pros and Cons.md",
+    "Knowledge base/Software development methodologies/Lean. Pros and Cons.md",
+    "Knowledge base/Software development methodologies/DevOps.md",
     "Knowledge base/Software development methodologies/Software development methodologies.md",
-    "Knowledge base/Database/Normal Forms/Functional dependencies/Non-trivial functional dependency.md",
-    "Knowledge base/Database/Normal Forms/First Normal Form.md",
-    "Knowledge base/Database/Normal Forms/Fourth Normal Form.md"
+    "Knowledge base/Software development methodologies/Agile.md",
+    "Knowledge base/Software development methodologies/Kanban.md"
   ]
 }

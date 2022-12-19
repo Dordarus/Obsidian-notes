@@ -36,8 +36,8 @@
 1. DB transactions 
 	1. [[ACID]]
 	2. [[Transaction]]
-	3. [[Two-phase commit]] (nice to have)
-2. [[Database normal forms]] (nice to have)
-4. [[Optimistic and pessimistic locks]]
-5. [[NoSQL vs SQL]]
+	3. [[Optimistic and pessimistic locks]]
+	4. [[Two-phase commit]] (nice to have)
+2. [[Database normal forms]]
+3. [[NoSQL vs SQL]]
 
