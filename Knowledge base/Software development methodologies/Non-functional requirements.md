@@ -16,6 +16,8 @@ The core principles of non-functional requirements can be summarized as follows:
 
 ## Non-functional requirement in software development
 
+^1de1f9
+
 In the context of software development, non-functional requirements are requirements that describe how a system should behave or perform, rather than what the system should do. These requirements are often used to evaluate the quality of a software system, rather than its functionality.
 
 Examples of non-functional requirements in a software development may include:
@@ -54,3 +56,24 @@ Another approach is to use a framework or set of guidelines to help identify and
 
 >[!NOTE]
 >Ultimately, the best approach to understanding which non-functional requirements are needed will depend on the specific context and goals of the product or system being developed. It may be helpful to work with a team of experts or consult with industry professionals to ensure that all relevant non-functional requirements are identified and considered.
+
+## Selecting non-functional requirements for a new feature or project
+
+Selecting non-functional requirements for a new feature or project involves considering the overall goals and objectives of the feature or project, as well as the needs and expectations of the stakeholders.
+
+Here are some steps that you can follow to select non-functional requirements:
+
+1. **Identify the stakeholders**: Determine who will be affected by or have an interest in the feature or project. This can include users, customers, business partners, and other internal or external parties.
+
+3. **Define the goals and objectives**: Clearly define the overall goals and objectives of the feature or project. This will help you to understand what the feature or project is trying to achieve and what non-functional requirements may be relevant.
+
+3. **Gather information**: Collect information from the stakeholders about their needs and expectations. This can be done through interviews, surveys, focus groups, or other methods.
+
+4. **Identify [[#^1de1f9|potential non-functional requirements]]**: Based on the information that you have gathered, identify potential non-functional requirements that may be relevant to the feature or project.
+
+5. **Prioritize the non-functional requirements**: Determine which non-functional requirements are most important for the feature or project, based on the goals and objectives, stakeholder needs and expectations, and any constraints or limitations.
+
+6. **Document the non-functional requirements**: Clearly document the selected non-functional requirements, including any specific criteria or acceptance criteria that should be met.
+
+>[!NOTE]
+>It is important to regularly review and update the non-functional requirements as the feature or project progresses, to ensure that they are still relevant and aligned with the goals and objectives of the project.

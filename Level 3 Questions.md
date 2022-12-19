@@ -12,8 +12,8 @@
 ## Engineering Process
 
 1. [[Software development methodologies]]
-2. How do you select [[Non-functional requirements]] for a new feature/project? 
-3. [[DoD vs DoR]]
+2. [[Types of requirements in sofware development]]
+4. [[DoD vs DoR]]
 
 ## Testing
 

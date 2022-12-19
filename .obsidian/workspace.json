@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge base/Software development methodologies/DevOps.md",
+                "file": "Knowledge base/Software development methodologies/Non-functional requirements.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddb60ae3b54c58f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge base/Software development methodologies/Non-functional requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "549c64098cc1c075",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge base/Software development methodologies/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge base/Software development methodologies/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Knowledge base/Software development methodologies/DevOps.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d8fe3aa7aef1762",
+  "active": "549c64098cc1c075",
   "lastOpenFiles": [
-    "Knowledge base/Software development methodologies/Non-functional requirements.md",
-    "Knowledge base/Software development methodologies/DoD vs DoR.md",
-    "Knowledge base/Software development methodologies/Lean.md",
     "Level 3 Questions.md",
+    "Knowledge base/Software development methodologies/Non-functional requirements.md",
+    "Knowledge base/Software development methodologies/Types of requirements in sofware development.md",
+    "Knowledge base/Software development methodologies/Functional requirements.md",
+    "Knowledge base/Software development methodologies/Methodologies/DevOps.md",
+    "Knowledge base/Software development methodologies/DoD vs DoR.md",
+    "Knowledge base/Software development methodologies/Methodologies/Lean.md",
     "Knowledge base/Software development methodologies/Software development methodologies.md",
     "Knowledge base/Concurrency and parallelism/Concurrency and parallelism.md",
-    "Knowledge base/Software development methodologies/DevOps. Pros and Cons.md",
-    "Knowledge base/Software development methodologies/Agile. Pros and Cons.md",
-    "Knowledge base/Software development methodologies/Waterfall. Pros and Cons.md",
-    "Knowledge base/Software development methodologies/Lean. Pros and Cons.md"
+    "Knowledge base/Software development methodologies/Methodologies/DevOps. Pros and Cons.md"
   ]
 }
