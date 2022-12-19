@@ -35,8 +35,12 @@
             "id": "549c64098cc1c075",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Level 3 Questions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Level 3 Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Level 3 Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Level 3 Questions.md"
+              }
             }
           }
         ]
@@ -155,6 +163,7 @@
   },
   "active": "549c64098cc1c075",
   "lastOpenFiles": [
+    "Knowledge base/Testing/Types of software tests.md",
     "Level 3 Questions.md",
     "Knowledge base/Software development methodologies/Non-functional requirements.md",
     "Knowledge base/Software development methodologies/Types of requirements in sofware development.md",
@@ -163,7 +172,6 @@
     "Knowledge base/Software development methodologies/DoD vs DoR.md",
     "Knowledge base/Software development methodologies/Methodologies/Lean.md",
     "Knowledge base/Software development methodologies/Software development methodologies.md",
-    "Knowledge base/Concurrency and parallelism/Concurrency and parallelism.md",
-    "Knowledge base/Software development methodologies/Methodologies/DevOps. Pros and Cons.md"
+    "Knowledge base/Concurrency and parallelism/Concurrency and parallelism.md"
   ]
 }
