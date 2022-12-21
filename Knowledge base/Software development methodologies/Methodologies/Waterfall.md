@@ -17,15 +17,15 @@ Waterfall development is a software development methodology that follows a linea
 
 Waterfall development is typically best suited for projects with ___well-defined and fixed requirements___, where the scope of the project is clear and there is little room for change. Examples of projects that might be well-suited for the Waterfall model include:
 
-- Developing software for a specific, defined purpose: For example, creating a custom software application for a business to track inventory, manage payroll, or process orders.
+- **Developing software for a specific, defined purpose**: For example, creating a custom software application for a business to track inventory, manage payroll, or process orders.
 
-- Developing software for a specific platform: For example, creating a mobile app for a specific operating system, such as iOS or Android.
+- **Developing software for a specific platform**: For example, creating a mobile app for a specific operating system, such as iOS or Android.
 
-- Developing software with a fixed timeline: For example, developing software for a specific event or deadline, such as the release of a new product or service.
+- **Developing software with a fixed timeline**: For example, developing software for a specific event or deadline, such as the release of a new product or service.
 
-- Developing software with a fixed budget: For example, creating software for a small business with limited resources, where the budget and timeline are fixed.
+- **Developing software with a fixed budget**: For example, creating software for a small business with limited resources, where the budget and timeline are fixed.
 
-- Developing software with well-defined and stable requirements: For example, developing software for a government agency with strict and unchanging requirements.
+- **Developing software with well-defined and stable requirements**: For example, developing software for a government agency with strict and unchanging requirements.
 
 >[!NOTE]
 >It's important to note that the Waterfall model is not well-suited for projects with rapidly changing or ambiguous requirements, as it does not allow for much flexibility or iteration. In these cases, a different software development methodology, such as [[Agile]], may be more appropriate.

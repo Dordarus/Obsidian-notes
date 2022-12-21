@@ -4,47 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "fc04c2a61246b01d",
+        "id": "a3de7e23ffc16e76",
         "type": "tabs",
         "children": [
           {
-            "id": "3d8fe3aa7aef1762",
+            "id": "ff857010c3ce99ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge base/Software development methodologies/Non-functional requirements.md",
+                "file": "Knowledge base/Concurrency and parallelism/Syncronization/Mutex.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ddb60ae3b54c58f2",
+            "id": "20de757aa93b180a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge base/Software development methodologies/Non-functional requirements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "549c64098cc1c075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 3 Questions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "3aa08d6a27b74bd9",
@@ -110,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 3 Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 3 Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Level 3 Questions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "549c64098cc1c075",
+  "active": "85582647566d0889",
   "lastOpenFiles": [
-    "Knowledge base/Testing/Types of software tests.md",
-    "Level 3 Questions.md",
-    "Knowledge base/Software development methodologies/Non-functional requirements.md",
-    "Knowledge base/Software development methodologies/Types of requirements in sofware development.md",
-    "Knowledge base/Software development methodologies/Functional requirements.md",
-    "Knowledge base/Software development methodologies/Methodologies/DevOps.md",
-    "Knowledge base/Software development methodologies/DoD vs DoR.md",
-    "Knowledge base/Software development methodologies/Methodologies/Lean.md",
+    "Knowledge base/Concurrency and parallelism/Syncronization/Lock.md",
+    "().md",
+    "Knowledge base/Concurrency and parallelism/Concurrency and parallelism.md",
+    "`concurrent-ruby`.md",
+    "Knowledge base/Concurrency and parallelism/Syncronization/Mutex.md",
+    "Knowledge base/Concurrency and parallelism/Syncronization/Semaphore.md",
+    "Knowledge base/Concurrency and parallelism/Synchronization.md",
+    "Knowledge base/Concurrency and parallelism/Potential issues.md",
     "Knowledge base/Software development methodologies/Software development methodologies.md",
-    "Knowledge base/Concurrency and parallelism/Concurrency and parallelism.md"
+    "Knowledge base/Software development methodologies/Methodologies/Lean.md"
   ]
 }
