@@ -17,21 +17,24 @@
 
 ## Testing
 #need_info
-
 1. [[The testing pyramid]]
 2. [[Types of software tests]]
+
+## Deployment
+#need_info 
+1. [[Blue-Green Deployment]] (Principles)
+2. [[How to deploy dependent microservices]] (Principles)
 
 ### Architecture and Design principles:
 #need_info 
 1. [[Microservices principles]]
-2. [[How to deploy dependent microservices]] (Principles)
-3. [[Blue-Green Deployment]] (Principles)
-5. Why would I migrate to microservice from huge monolith application? ([[Migrating to microservice architecture]])
+2. Why would I migrate to microservice from huge monolith application? ([[Migrating to microservice architecture]])
 
 ### Concurrency vs Parallelism in ruby
-#need_info 
-1. [[Concurrency and parallelism]]
+1. [[Concurrency]] and [[Parallelism]]
 2. Sidekiq can process some tasks in parallel, How it's able to process the jobs in parallel? ([[Sidekiq and multithreads]])
+3. [[Synchronization]]
+4. [[Asynchronous programming]]
 
 ## Database Architecture
 
@@ -43,3 +46,7 @@
 	4. [[Two-phase commit]] (nice to have)
 3. [[Database normal forms]]
 4. [[NoSQL vs SQL]]
+
+## Garbage collector
+#need_info 
+1. Garbage collector
